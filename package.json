@@ -1,0 +1,39 @@
+{
+  "name": "mongo-scrape",
+  "version": "1.0.0",
+  "description": "Mongo homework to scrape data from website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anum-shabbir/Mongo-Scrape.git"
+  },
+  "keywords": [
+    "mongo"
+  ],
+  "author": "Anum Shabbir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anum-shabbir/Mongo-Scrape/issues"
+  },
+  "homepage": "https://github.com/anum-shabbir/Mongo-Scrape#readme",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "mongojs": "^2.4.1",
+    "mongoose": "^4.13.7",
+    "morgan": "^1.9.0",
+    "nodemon": "^1.13.2",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1"
+  }
+}
