@@ -4,7 +4,7 @@ Homework 18
 
 ## BBC World Discoveries
 
-Web app that lets users view and leave comments on the latest news
+Web app that lets users view and leave comments on the latest news scrappped from http://www.bbc.com/earth/columns/discoveries
 
 
 ### Technologies:
